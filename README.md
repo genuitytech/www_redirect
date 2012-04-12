@@ -7,7 +7,7 @@ This is a Railtie that provides middleware to redirect naked domains
 
 Add this line to your application's Gemfile:
 
-    gem 'www_redirect'
+    gem 'www_redirect', :group => :production
 
 ## Usage
 
